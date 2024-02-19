@@ -1,53 +1,35 @@
 {
 	"name": "services",
-	"services": [
-		{
-			"id": "",
-			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-			"thumb": "https://neryxomka.com/template/img/welcome.png",
-			"name": "service"
-		},
-		{
-			"id": "",
-			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-			"thumb": "https://neryxomka.com/template/img/welcome.png",
-			"name": "service"
-		},
-		{
-			"id": "",
-			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-			"thumb": "https://neryxomka.com/template/img/welcome.png",
-			"name": "service"
-		},
-		{
-			"id": "",
-			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-			"thumb": "https://neryxomka.com/template/img/welcome.png",
-			"name": "service"
-		},
-		{
-			"id": "",
-			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-			"thumb": "https://neryxomka.com/template/img/welcome.png",
-			"name": "service"
-		},
-		{
-			"id": "",
-			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-			"thumb": "https://neryxomka.com/template/img/welcome.png",
-			"name": "service"
-		},
-		{
-			"id": "",
-			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-			"thumb": "https://neryxomka.com/template/img/welcome.png",
-			"name": "service"
-		},
-		{
-			"id": "",
-			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-			"thumb": "https://neryxomka.com/template/img/welcome.png",
-			"name": "service"
-		}
+	"tags": [
+	  {
+		"name": "Persons",
+		"services": [
+		  {
+			"thumb": "/artemvelihin/img/1.jpg",
+			"name": "Person"
+		  },
+		  {
+			"thumb": "/artemvelihin/img/2.jpg",
+			"name": "Person"
+		  },
+		  {
+			"thumb": "/artemvelihin/img/3.jpg",
+			"name": "Person"
+		  },
+		  {
+			"thumb": "/artemvelihin/img/4.jpg",
+			"name": "Person"
+		  },
+		  {
+			"thumb": "/artemvelihin/img/5.jpg",
+			"name": "Person"
+		  },
+		  {
+			"thumb": "/artemvelihin/img/6.jpg",
+			"name": "Person"
+		  }
+		]
+	  }
 	]
-}
+  }
+  
